@@ -1,0 +1,75 @@
+
+.l-container {
+  height: 800px;
+  width: 100%;
+
+  .login-container {
+    display: table;
+    height: 100%;
+    width: 500px;
+    margin: 0 auto;
+
+    .login-wrapper {
+      display: table-cell;
+      vertical-align: middle;
+
+      .login-content {
+        height: 500px;
+        padding: 40px;
+        border: 1px solid gray;
+        border-radius: 8px;
+        text-align: center;
+
+        .login-title {
+          color: gray;
+          font-size: 50px;
+          margin-bottom: 40px;
+        }
+
+        .form-area {
+          margin-bottom: 30px;
+
+          .form-block {
+            text-align: left;
+            margin-bottom: 20px;
+
+            .form-label {
+              margin-bottom: 10px;
+            }
+
+            .form-row {
+              width: 100%;
+
+              .box {
+                height: 50px;
+                width: 100%;
+                border: 1px solid gray;
+                padding: 16px 8px
+              }
+            }
+          }
+        }
+
+        .btn-area {
+          width: 100%;
+          margin-bottom: 20px;
+
+          .submit-btn {
+            height: 50px;
+            background: #47B21D;
+            width: 80%;
+            color: white;
+          }
+
+          .register-btn {
+            height: 50px;
+            background: #5E76B6;
+            width: 80%;
+            color: white;
+          }
+        }
+      }
+    }
+  }
+
+}
