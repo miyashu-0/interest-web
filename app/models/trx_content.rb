@@ -1,0 +1,2 @@
+class TrxContent < ApplicationRecord
+end

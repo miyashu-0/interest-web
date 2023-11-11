@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mus_user_id: 1
+  mus_email: MyString
+  mus_password_digest: MyString
+  mus_user_name: MyString
+  mus_delete_flag: MyString
+  mus_registration_datetime: 2023-11-11 19:28:52
+  mus_update_datetime: 2023-11-11 19:28:52
+
+two:
+  mus_user_id: 1
+  mus_email: MyString
+  mus_password_digest: MyString
+  mus_user_name: MyString
+  mus_delete_flag: MyString
+  mus_registration_datetime: 2023-11-11 19:28:52
+  mus_update_datetime: 2023-11-11 19:28:52
